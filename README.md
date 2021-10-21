@@ -26,9 +26,9 @@ Scores will be saved in local storage.
 - [Authors](#authors)
 - [Preview](#preview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Test](#test)
+- [Demo](#linktodeployedpage)
+- [Preview](#preview)
+- [Repo](#linktodeployedrepo)
 - [Contribution](#contribution)
 - [License](#license)
 - [Bugs](#bugs)
@@ -51,11 +51,11 @@ Scores will be saved in local storage.
 [Demo Live](https://github.com/soph-k/sophk_hangman_minigame)
 
 
-# Screen Shot
+## Preview
 ![Preview Of Northern Cocktail Viewer webpage](./assets/images/screenshot.png)
 
     
-# Link to Deployed Page
+## Link to Deployed Repo
 [Repo]( https://soph-k.github.io/sophk_hangman_minigame/)
 
 
