@@ -15,7 +15,7 @@
 
 
 ## Overview
-Fun Simple hangman minigame created from HTML, CSS, and vanilla Javascript. 
+Fun Simple hangman minigame created from HTML, CSS, Javascript, and jQuery. 
 Within the array there are 20 words that will be randomly presented to the user. 
 The user must guess the word within 7 tries, or they will lose. 
 Scores will be saved in local storage.
